@@ -1,0 +1,2 @@
+# Senko
+Multipurpose, platform independent
