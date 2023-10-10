@@ -1,2 +1,2 @@
 # Senko
-Multipurpose, platform independent
+A Multipurpose Tool for UNIX & UNIX-Like Platforms
